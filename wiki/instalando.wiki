@@ -1,3 +1,4 @@
+<pre>
 para instalar o cactoo é muito simples,vá na aba downloads
 baixe a versão mais nova do cactoo,descompacte o zip do 
 mesmo na pasta local do seu web server,sete todos os arquivos
@@ -63,5 +64,5 @@ _mlk_,IAK,m0nad,d3lf0,jeferson da OrionMidia, ecl,voidpointer,otacon_x32,zepplin
 
 Autor: Cooler_ 
 contato: c00f3r@gmail.com
-
+</pre>
  
