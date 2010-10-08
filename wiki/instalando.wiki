@@ -12,8 +12,8 @@ helper/class.crud.php  <--- Configure o cabeçalho de acordo com seu SGBD e banc
 code/rss.php <--- Configure o cabeçalho do arquivo de acordo com seu DNS  
 
 configure o ".htaccess" para usar mod_rewrite para URLs amigaveis
+</pre>
 <code>
------------------------------------------
 RewriteEngine On
 RewriteOptions inherit
 RewriteBase /cactoo  #atenção caso mude nome da pasta mude aqui
@@ -28,8 +28,8 @@ RewriteRule ^busca code/front.php?page=buscar
 RewriteRule ^aba=([^/]*) code/front.php?aba=$1 [L]
 RewriteRule ^categoria=([^/]*) code/front.php?CategoriaView=$1 [L]
 RewriteRule ^rss$ code/rss.php [L]
------------------------------------------
 </code>
+<pre>
 visitante irá ver a página em http://localhost/cactoo/inicio
 
 
